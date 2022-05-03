@@ -1,0 +1,29 @@
+/* body{
+    background-color: rebeccapurple;
+} */
+
+
+#cv-form{
+    /* display: none; */
+}
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: darkorange;
+}
+.form-control {
+    
+    /* background-color: lightgreen; */
+    border-color: black;
+    outline: 20px;
+    box-shadow: none;
+    border-style: double;
+    
+}

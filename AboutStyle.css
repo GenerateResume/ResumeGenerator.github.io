@@ -1,0 +1,27 @@
+
+* {background-color: paleturquoise}
+
+
+.heading{
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    margin: 50px auto;
+    width: 50%;
+    padding: 14px;
+}
+img{
+    float: left;
+    width: 300px;
+    height: 360px;
+    /* padding: 0 10px 0 0; */
+    padding: 0 2px 0 0;
+  
+}
+.text{
+    
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
